@@ -14,7 +14,7 @@ This architecture is trained with a large dataset acquired using three thermal c
 # Architecture
 
 <p align="center">
-  <img src="figures/architecture.png" width="80%">
+  <img src="figures/architecture_v2.png" width="80%">
 </p>
 
 <p align="center">
