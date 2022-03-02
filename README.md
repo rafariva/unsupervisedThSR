@@ -21,7 +21,7 @@ This architecture is trained with a large dataset acquired using three thermal c
   <img src="figures/generator.png" width="40%">
 </p>
 
-# Results
+# Quantitative Results
 
 | Approaches | PSNR | SSIM |
 | --- | --- | --- |
@@ -33,3 +33,10 @@ This architecture is trained with a large dataset acquired using three thermal c
 | Current Work2 (PA-D1-D2) | 21.93 | 0.8117 |
 | Current Work3 (PA-D1-AT) | 23.19 | 0.8023 |
 | Current Work4 (PA-D1-D2-AT) | 21.23 | 0.8167 |
+
+
+# Qualitative Results
+
+<p align="center">
+  <img src="figures/dataset_950thermal.png" width="80%">
+</p>
