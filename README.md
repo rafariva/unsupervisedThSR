@@ -38,5 +38,5 @@ This architecture is trained with a large dataset acquired using three thermal c
 # Qualitative Results
 
 <p align="center">
-  <img src="figures/dataset_950thermal.png" width="80%">
+  <img src="figures/results1.png" width="80%">
 </p>
